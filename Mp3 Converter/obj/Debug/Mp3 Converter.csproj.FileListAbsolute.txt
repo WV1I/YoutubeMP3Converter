@@ -1,0 +1,19 @@
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\Mp3 Converter.exe.config
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\Mp3 Converter.exe
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\Mp3 Converter.pdb
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.csprojAssemblyReference.cache
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3_Converter.Form1.resources
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3_Converter.Properties.Resources.resources
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.csproj.GenerateResource.cache
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.csproj.CoreCompileInputs.cache
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.exe
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.pdb
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\libvideo.dll
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\MediaToolkit.dll
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\obj\Debug\Mp3 Converter.csproj.CopyComplete
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\NReco.VideoConverter.dll
+C:\Users\agawl\source\repos\Mp3 Converter\Mp3 Converter\bin\Debug\NReco.VideoConverter.xml
